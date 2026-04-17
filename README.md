@@ -23,3 +23,7 @@ mv pipeline.py pipeline.py.bak
 mv nn_model.py nn_model.py.bak
 
 mv MATR_split.py MATR_split.py.bak
+
+A companion paper bat-ddp.pdf is included.
+
+Please reference this site if you are using the codes and the paper.
